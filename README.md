@@ -4,5 +4,6 @@ Docker image with common tools used to build Debian packages
 - devscripts
 - debhelper
 - git
+- cmake
 
 Also, `contrib` and `non-free` repos are enabled.
